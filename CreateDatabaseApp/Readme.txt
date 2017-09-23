@@ -1,0 +1,1 @@
+﻿Sets up the student database
