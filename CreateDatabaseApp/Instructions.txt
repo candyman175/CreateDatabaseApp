@@ -1,0 +1,8 @@
+Instructions for Student Application
+1. Download the CreateDatabaseApp from GitHub: https://github.com/candyman175/CreateDatabaseApp
+2. Assure there is a running instance of SqlExpress.
+3. Run the program to create the Student database and Students table using EF Code First.
+4. Download the Student application from GitHub: https://github.com/candyman175/student. This application doesn't use Web API.  Please see additional documentation for my methods of working and the process used to create the application.
+5. Change the connection string in the web.config file to the location of the SqlExpress database server.
+6. Run the student application to add and display students.  Note: This application also allows for editing and deleting students.
+7. In addition, please see the web api application I created using jQuery.  I've included it so you can see I know how to do web api applications.  GitHub location: https://github.com/candyman175/WebAPISimpleParms
